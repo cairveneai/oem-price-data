@@ -1,6 +1,181 @@
 {
-  "lastUpdated": "2026-07-06T01:15:00.000Z",
+  "lastUpdated": "2026-07-09T14:00:00.000Z",
   "history": [
+    {
+      "date": "2026-07-09",
+      "plans": [
+        {
+          "planId": "kep260010",
+          "retailerId": "keppel",
+          "planName": "FIXED24",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "kep260011",
+          "retailerId": "keppel",
+          "planName": "FIXED12",
+          "planType": "fixed",
+          "pricePerKWh": 33.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "plerg260002",
+          "retailerId": "pacificlight",
+          "planName": "Savvy Saver 12",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "plerg260005",
+          "retailerId": "pacificlight",
+          "planName": "Savvy Saver 24",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "plerg260006",
+          "retailerId": "pacificlight",
+          "planName": "Sunny Side-Up 12",
+          "planType": "fixed",
+          "pricePerKWh": 29.71,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "sembp260007",
+          "retailerId": "sembcorp",
+          "planName": "12M Fixed Price Plan Home",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "sembp260008",
+          "retailerId": "sembcorp",
+          "planName": "24M Fixed Price Plan Home",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "sernrg200005",
+          "retailerId": "geneco",
+          "planName": "Get It Fixed 24",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "sernrg260001",
+          "retailerId": "geneco",
+          "planName": "Get It Fixed 12",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "sernrg260002",
+          "retailerId": "geneco",
+          "planName": "Give Us A Try",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "snknrg260023",
+          "retailerId": "senoko",
+          "planName": "LifeSteady24",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": 1.64,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "snknrg260026",
+          "retailerId": "senoko",
+          "planName": "LifeGreen24",
+          "planType": "fixed",
+          "pricePerKWh": 29.18,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "snknrg260028",
+          "retailerId": "senoko",
+          "planName": "LifePower 12m",
+          "planType": "fixed",
+          "pricePerKWh": 29.2,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "snknrg260030",
+          "retailerId": "senoko",
+          "planName": "LifePower24",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "tuasps250002",
+          "retailerId": "tuas",
+          "planName": "PowerFix 24",
+          "planType": "fixed",
+          "pricePerKWh": 27.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "tuasps260001",
+          "retailerId": "tuas",
+          "planName": "PowerFix 12",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        },
+        {
+          "planId": "tuasps260002",
+          "retailerId": "tuas",
+          "planName": "PowerFix 6",
+          "planType": "fixed",
+          "pricePerKWh": 29.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "monthlyFee": 0
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "plans": [
