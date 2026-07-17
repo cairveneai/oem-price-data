@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T12:31:51.000Z",
+  "lastUpdated": "2026-07-17T23:39:04.000Z",
   "retailers": [
     {
       "id": "geneco",
@@ -52,7 +52,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $100 bill rebate",
       "effectiveDate": "2026-06-30",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.keppelelectric.com"
     },
     {
@@ -68,7 +68,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $10 bill rebate",
       "effectiveDate": "2026-07-15",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.keppelelectric.com"
     },
     {
@@ -84,7 +84,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $10 bill rebate",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.pacificlight.com.sg"
     },
     {
@@ -100,7 +100,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $140 bill rebate",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.pacificlight.com.sg"
     },
     {
@@ -116,7 +116,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.pacificlight.com.sg"
     },
     {
@@ -132,7 +132,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.sembcorppower.com"
     },
     {
@@ -148,7 +148,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.sembcorppower.com"
     },
     {
@@ -164,7 +164,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $255 rebates + Price Match Guarantee",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.geneco.sg"
     },
     {
@@ -180,7 +180,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $60 bill rebates",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.geneco.sg"
     },
     {
@@ -196,7 +196,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.geneco.sg"
     },
     {
@@ -228,7 +228,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates",
       "effectiveDate": "2026-07-10",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.senokoenergy.com"
     },
     {
@@ -244,7 +244,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $169 in promo gifts & rebates",
       "effectiveDate": "2026-07-10",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.senokoenergy.com"
     },
     {
@@ -260,7 +260,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $228 in promo gifts & rebates",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.senokoenergy.com"
     },
     {
@@ -276,7 +276,7 @@
       "earlyTerminationFee": 200,
       "signupPromo": "$100 bill rebate + Same SP Bill",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.tuaspower.com.sg"
     },
     {
@@ -292,7 +292,7 @@
       "earlyTerminationFee": 200,
       "signupPromo": "Same SP Bill",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.tuaspower.com.sg"
     },
     {
@@ -308,7 +308,7 @@
       "earlyTerminationFee": 200,
       "signupPromo": "Same SP Bill",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-07-17T12:31:51.000Z",
+      "lastVerifiedAt": "2026-07-17T23:39:04.000Z",
       "sourceURL": "https://www.tuaspower.com.sg"
     }
   ]
