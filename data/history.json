@@ -105,16 +105,6 @@
           "monthlyFee": 0
         },
         {
-          "planId": "snknrg260023",
-          "retailerId": "senoko",
-          "planName": "LifeSteady24",
-          "planType": "discountOffTariff",
-          "pricePerKWh": null,
-          "discountOffTariffPercent": null,
-          "discountOffTariffCentsPerKWh": 1.64,
-          "monthlyFee": 0
-        },
-        {
           "planId": "snknrg260032",
           "retailerId": "senoko",
           "planName": "LifeGreen24",
@@ -277,16 +267,6 @@
           "pricePerKWh": 29.0,
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
-          "monthlyFee": 0
-        },
-        {
-          "planId": "snknrg260023",
-          "retailerId": "senoko",
-          "planName": "LifeSteady24",
-          "planType": "discountOffTariff",
-          "pricePerKWh": null,
-          "discountOffTariffPercent": null,
-          "discountOffTariffCentsPerKWh": 1.64,
           "monthlyFee": 0
         },
         {

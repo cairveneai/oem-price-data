@@ -200,22 +200,6 @@
       "sourceURL": "https://www.geneco.sg"
     },
     {
-      "id": "snknrg260023",
-      "retailerId": "senoko",
-      "planName": "LifeSteady24",
-      "planType": "discountOffTariff",
-      "contractLengthMonths": 24,
-      "pricePerKWh": null,
-      "discountOffTariffPercent": null,
-      "discountOffTariffCentsPerKWh": 1.64,
-      "monthlyFee": 0,
-      "earlyTerminationFee": null,
-      "signupPromo": "Up to $228 in promo gifts & rebates",
-      "effectiveDate": "2026-04-20",
-      "lastVerifiedAt": "2026-07-15T13:30:00.000Z",
-      "sourceURL": "https://www.senokoenergy.com"
-    },
-    {
       "id": "snknrg260032",
       "retailerId": "senoko",
       "planName": "LifeGreen24",
