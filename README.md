@@ -29,9 +29,11 @@ https://<username>.github.io/oem-price-data/data/history.json
 
 ## Updating
 
-Data is entered and verified manually against
-`compare.openelectricitymarket.sg` (automated scraping was evaluated and
-ruled out — see the spec's "Why This Approach" section for why). Until the
+Data is entered and verified manually against each retailer's own
+price-plan page (not `compare.openelectricitymarket.sg` — see the spec's
+"Why not OEM" note) and, for plans with non-trivial rate structures, the
+plan's EMA Fact Sheet. Automated scraping was evaluated and ruled out — see
+the spec's "Why This Approach" section for why. Until the
 `admin-data-entry.html` tool referenced in the spec exists, edit the JSON
 files directly, keeping the schema intact, then commit and push:
 
