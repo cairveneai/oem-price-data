@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T22:40:33.000Z",
+  "lastUpdated": "2026-08-04T22:41:34.000Z",
   "retailers": [
     {
       "id": "geneco",
@@ -45,7 +45,7 @@
       "planName": "12M Fixed Price Plan Home",
       "planType": "fixed",
       "contractLengthMonths": 12,
-      "pricePerKWh": 29.0,
+      "pricePerKWh": 31.0,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -57,7 +57,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://resi.sembcorppower.com/"
     },
     {
@@ -66,7 +66,7 @@
       "planName": "24M Fixed Price Plan Home",
       "planType": "fixed",
       "contractLengthMonths": 24,
-      "pricePerKWh": 27.5,
+      "pricePerKWh": 29.8,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -78,7 +78,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://resi.sembcorppower.com/"
     },
     {
@@ -99,7 +99,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Bill rebate up to $10",
       "effectiveDate": "2026-07-15",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -120,7 +120,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Bill rebate up to $120",
       "effectiveDate": "2026-06-30",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -141,7 +141,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Bill rebate up to $110",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -162,7 +162,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Rebate up to $20",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -183,7 +183,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Green plan · bill rebate up to $120",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -204,7 +204,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.keppelelectric.com/residential/price-plans"
     },
     {
@@ -213,7 +213,7 @@
       "planName": "Get It Fixed 12",
       "planType": "fixed",
       "contractLengthMonths": 12,
-      "pricePerKWh": 29.0,
+      "pricePerKWh": 31.0,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -225,7 +225,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Promo code POWER15 · $15 bill rebate",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.geneco.sg/residential/electricity-plans/"
     },
     {
@@ -246,7 +246,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Promo code POWER200 ($200 rebate, SP customers) / POWER100 ($100 rebate, others)",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.geneco.sg/residential/electricity-plans/"
     },
     {
@@ -255,7 +255,7 @@
       "planName": "Give Us A Try",
       "planType": "fixed",
       "contractLengthMonths": 6,
-      "pricePerKWh": 29.0,
+      "pricePerKWh": 31.0,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -267,7 +267,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.geneco.sg/residential/electricity-plans/"
     },
     {
@@ -288,7 +288,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.geneco.sg/residential/electricity-plans/"
     },
     {
@@ -309,7 +309,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $80 bill rebate (or GIRO/card promo)",
       "effectiveDate": "2026-08-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -330,7 +330,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $205 bill rebate with GIRO (promo code OEGIROFB185)",
       "effectiveDate": "2026-08-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -351,7 +351,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $250 bill rebate with GIRO (promo code OEGIROFB230)",
       "effectiveDate": "2026-08-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -372,7 +372,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Green plan · up to $205 bill rebate with GIRO",
       "effectiveDate": "2026-08-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -393,7 +393,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -414,7 +414,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
@@ -435,17 +435,17 @@
       "earlyTerminationFee": null,
       "signupPromo": "Bill rebates up to $200",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.senokoenergy.com/households/price-plans"
     },
     {
-      "id": "tuasps260002",
+      "id": "tuasps260005",
       "retailerId": "tuas",
-      "planName": "PowerFix 6",
-      "planType": "fixed",
+      "planName": "PowerDOT 6",
+      "planType": "discountOffTariff",
       "contractLengthMonths": 6,
-      "pricePerKWh": 29.0,
-      "discountOffTariffPercent": null,
+      "pricePerKWh": null,
+      "discountOffTariffPercent": 10.0,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
       "offPeakRatePerKWh": null,
@@ -453,10 +453,10 @@
       "usageTiers": null,
       "monthlyFee": 0,
       "dailyFee": null,
-      "earlyTerminationFee": 200,
-      "signupPromo": "",
-      "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "earlyTerminationFee": null,
+      "signupPromo": "Free 12mo Singlife insurance",
+      "effectiveDate": "2026-08-05",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.savewithtuas.com/our-electricity-plans/"
     },
     {
@@ -465,7 +465,7 @@
       "planName": "PowerFix 12",
       "planType": "fixed",
       "contractLengthMonths": 12,
-      "pricePerKWh": 29.0,
+      "pricePerKWh": 31.0,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -476,8 +476,8 @@
       "dailyFee": null,
       "earlyTerminationFee": 200,
       "signupPromo": "",
-      "effectiveDate": "2026-07-02",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "effectiveDate": "2026-08-03",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.savewithtuas.com/our-electricity-plans/"
     },
     {
@@ -486,7 +486,7 @@
       "planName": "PowerFix 24",
       "planType": "fixed",
       "contractLengthMonths": 24,
-      "pricePerKWh": 27.5,
+      "pricePerKWh": 29.8,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -497,8 +497,8 @@
       "dailyFee": null,
       "earlyTerminationFee": 200,
       "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance",
-      "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "effectiveDate": "2026-08-03",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.savewithtuas.com/our-electricity-plans/"
     },
     {
@@ -507,7 +507,7 @@
       "planName": "PowerFix 36",
       "planType": "fixed",
       "contractLengthMonths": 36,
-      "pricePerKWh": 27.28,
+      "pricePerKWh": 29.4,
       "discountOffTariffPercent": null,
       "discountOffTariffCentsPerKWh": null,
       "peakRatePerKWh": null,
@@ -518,8 +518,8 @@
       "dailyFee": null,
       "earlyTerminationFee": 200,
       "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance",
-      "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "effectiveDate": "2026-08-03",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.savewithtuas.com/our-electricity-plans/"
     },
     {
@@ -540,7 +540,7 @@
       "earlyTerminationFee": 200,
       "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance",
       "effectiveDate": "2026-07-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://www.savewithtuas.com/our-electricity-plans/"
     },
     {
@@ -561,7 +561,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $10 bill rebate",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -582,7 +582,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $140 bill rebate",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -603,7 +603,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Green plan (RECs) · up to $10 bill rebate",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -624,7 +624,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -645,7 +645,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "No contract · no early termination charge",
       "effectiveDate": "2026-07-01",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -666,7 +666,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "No contract · no early termination charge",
       "effectiveDate": "2026-07-06",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -687,7 +687,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "No contract · no early termination charge",
       "effectiveDate": "2026-07-06",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -708,7 +708,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $140 rebate/miles (promo codes LIT120/MBBON140/KFLYER24)",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -745,7 +745,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to $140 rebate/miles (promo codes LIT120/MBBON140/KFLYER24)",
       "effectiveDate": "2026-07-03",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     },
     {
@@ -766,7 +766,7 @@
       "earlyTerminationFee": null,
       "signupPromo": "Up to 8% off (3% off tariff + 5% prompt payment discount, conditional)",
       "effectiveDate": "2026-06-18",
-      "lastVerifiedAt": "2026-08-03T22:40:33.000Z",
+      "lastVerifiedAt": "2026-08-04T22:41:34.000Z",
       "sourceURL": "https://pacificlight.com.sg/home/plans-new"
     }
   ]
