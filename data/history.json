@@ -1,6 +1,537 @@
 {
-  "lastUpdated": "2026-08-19T22:38:05.000Z",
+  "lastUpdated": "2026-08-20T22:38:42.000Z",
   "history": [
+    {
+      "date": "2026-08-21",
+      "plans": [
+        {
+          "planId": "sembp260007",
+          "retailerId": "sembcorp",
+          "planName": "12M Fixed Price Plan Home",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "sembp260008",
+          "retailerId": "sembcorp",
+          "planName": "24M Fixed Price Plan Home",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "kep260011",
+          "retailerId": "keppel",
+          "planName": "FIXED12",
+          "planType": "fixed",
+          "pricePerKWh": 34.77,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebate up to $10"
+        },
+        {
+          "planId": "kep260010",
+          "retailerId": "keppel",
+          "planName": "FIXED24",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebate up to $145"
+        },
+        {
+          "planId": "kep260012",
+          "retailerId": "keppel",
+          "planName": "FIXED36",
+          "planType": "fixed",
+          "pricePerKWh": 29.4,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebate up to $120"
+        },
+        {
+          "planId": "kep260013",
+          "retailerId": "keppel",
+          "planName": "WEEKEND SAVER",
+          "planType": "timeOfUse",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": 39.9,
+          "offPeakRatePerKWh": 27.9,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "kep260014",
+          "retailerId": "keppel",
+          "planName": "ecoGreen24",
+          "planType": "fixed",
+          "pricePerKWh": 38.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Green plan · bill rebate up to $120"
+        },
+        {
+          "planId": "kep260015",
+          "retailerId": "keppel",
+          "planName": "SURESAVE DOT",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": 12.0,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
+        },
+        {
+          "planId": "sernrg260001",
+          "retailerId": "geneco",
+          "planName": "Get It Fixed 12",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
+        },
+        {
+          "planId": "sernrg200005",
+          "retailerId": "geneco",
+          "planName": "Get It Fixed 24",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Promo code POWER200 ($200 rebate, SP customers) / POWER100 ($100 rebate, others)"
+        },
+        {
+          "planId": "sernrg260002",
+          "retailerId": "geneco",
+          "planName": "Give Us A Try",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "sernrg260003",
+          "retailerId": "geneco",
+          "planName": "Get It 7 To 7",
+          "planType": "timeOfUse",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": 32.5,
+          "offPeakRatePerKWh": 27.28,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "snknrg260031",
+          "retailerId": "senoko",
+          "planName": "LifePower12",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $80 bill rebate (or GIRO/card promo)"
+        },
+        {
+          "planId": "snknrg260030",
+          "retailerId": "senoko",
+          "planName": "LifePower24",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $170 bill rebate with GIRO (promo code GIROFB100)"
+        },
+        {
+          "planId": "snknrg260033",
+          "retailerId": "senoko",
+          "planName": "LifePower36",
+          "planType": "fixed",
+          "pricePerKWh": 29.4,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $170 bill rebate with GIRO (promo code GIROFB150)"
+        },
+        {
+          "planId": "snknrg260032",
+          "retailerId": "senoko",
+          "planName": "LifeGreen24",
+          "planType": "fixed",
+          "pricePerKWh": 30.18,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
+        },
+        {
+          "planId": "snknrg260023",
+          "retailerId": "senoko",
+          "planName": "LifeSteady24",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": 1.64,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
+        },
+        {
+          "planId": "snknrg260034",
+          "retailerId": "senoko",
+          "planName": "LifeSteady36",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": 1.64,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
+        },
+        {
+          "planId": "snknrg260035",
+          "retailerId": "senoko",
+          "planName": "LifeSavvy24",
+          "planType": "timeOfUse",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": 36.95,
+          "offPeakRatePerKWh": 20.05,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebates up to $170"
+        },
+        {
+          "planId": "tuasps260005",
+          "retailerId": "tuas",
+          "planName": "PowerDOT 6",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": 10.0,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Free 12mo Singlife insurance"
+        },
+        {
+          "planId": "tuasps260001",
+          "retailerId": "tuas",
+          "planName": "PowerFix 12",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": ""
+        },
+        {
+          "planId": "tuasps250002",
+          "retailerId": "tuas",
+          "planName": "PowerFix 24",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
+        },
+        {
+          "planId": "tuasps260003",
+          "retailerId": "tuas",
+          "planName": "PowerFix 36",
+          "planType": "fixed",
+          "pricePerKWh": 29.4,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
+        },
+        {
+          "planId": "tuasps260004",
+          "retailerId": "tuas",
+          "planName": "PowerFix 25 G+",
+          "planType": "fixed",
+          "pricePerKWh": 32.7,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
+        },
+        {
+          "planId": "plerg260002",
+          "retailerId": "pacificlight",
+          "planName": "Savvy Saver 12",
+          "planType": "fixed",
+          "pricePerKWh": 31.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $10 bill rebate"
+        },
+        {
+          "planId": "plerg260005",
+          "retailerId": "pacificlight",
+          "planName": "Savvy Saver 24",
+          "planType": "fixed",
+          "pricePerKWh": 29.8,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $200 bill rebate (promo codes ATE24/YUU24/MBBON140/KFLYER24)"
+        },
+        {
+          "planId": "plerg260006",
+          "retailerId": "pacificlight",
+          "planName": "Sunny Side-Up 12",
+          "planType": "fixed",
+          "pricePerKWh": 31.5,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
+        },
+        {
+          "planId": "plerg260007",
+          "retailerId": "pacificlight",
+          "planName": "Savvy Saver 36",
+          "planType": "fixed",
+          "pricePerKWh": 29.4,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $250 bill rebate (promo codes ATE36/YUU36/MBBON200/KFLYER36)"
+        },
+        {
+          "planId": "plerg260008",
+          "retailerId": "pacificlight",
+          "planName": "Easy Save",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": 18.0,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": 0.55,
+          "signupPromo": "No contract · no early termination charge"
+        },
+        {
+          "planId": "plerg260009",
+          "retailerId": "pacificlight",
+          "planName": "Easy Peasy",
+          "planType": "fixed",
+          "pricePerKWh": 26.0,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": 0.55,
+          "signupPromo": "No contract · no early termination charge"
+        },
+        {
+          "planId": "plerg260010",
+          "retailerId": "pacificlight",
+          "planName": "9 to 9",
+          "planType": "timeOfUse",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": 38.0,
+          "offPeakRatePerKWh": 18.5,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": 1.01,
+          "signupPromo": "No contract · no early termination charge"
+        },
+        {
+          "planId": "plerg260011",
+          "retailerId": "pacificlight",
+          "planName": "Save While Sleeping 24",
+          "planType": "timeOfUse",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": 34.5,
+          "offPeakRatePerKWh": 22.5,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $200 bill rebate (promo codes ATE24/YUU24/MBBON140/KFLYER24)"
+        },
+        {
+          "planId": "plerg260012",
+          "retailerId": "pacificlight",
+          "planName": "Stack It Up 24",
+          "planType": "usageTiered",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": null,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": [
+            {
+              "minKWh": 0,
+              "maxKWh": 300,
+              "ratePerKWh": 30.0
+            },
+            {
+              "minKWh": 301,
+              "maxKWh": 600,
+              "ratePerKWh": 29.4
+            },
+            {
+              "minKWh": 601,
+              "maxKWh": null,
+              "ratePerKWh": 28.0
+            }
+          ],
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to $200 bill rebate (promo codes ATE24/YUU24/MBBON140/KFLYER24)"
+        },
+        {
+          "planId": "plerg260013",
+          "retailerId": "pacificlight",
+          "planName": "Classic 60",
+          "planType": "discountOffTariff",
+          "pricePerKWh": null,
+          "discountOffTariffPercent": 8.0,
+          "discountOffTariffCentsPerKWh": null,
+          "peakRatePerKWh": null,
+          "offPeakRatePerKWh": null,
+          "usageTiers": null,
+          "monthlyFee": 0,
+          "dailyFee": null,
+          "signupPromo": "Up to 8% off (3% off tariff + 5% prompt payment discount) · $380 rebate with promo code ATE60"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "plans": [
@@ -107,7 +638,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -122,7 +653,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -137,7 +668,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -242,7 +773,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -257,7 +788,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -272,7 +803,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -332,7 +863,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -347,7 +878,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -362,7 +893,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -407,7 +938,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -437,7 +968,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -452,7 +983,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -467,7 +998,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -638,7 +1169,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -653,7 +1184,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -668,7 +1199,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -773,7 +1304,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -788,7 +1319,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -803,7 +1334,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -863,7 +1394,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -878,7 +1409,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -893,7 +1424,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -938,7 +1469,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -968,7 +1499,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -983,7 +1514,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -998,7 +1529,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -1169,7 +1700,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -1184,7 +1715,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -1199,7 +1730,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -1304,7 +1835,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -1319,7 +1850,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -1334,7 +1865,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -1394,7 +1925,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -1409,7 +1940,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -1424,7 +1955,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -1469,7 +2000,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -1499,7 +2030,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -1514,7 +2045,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -1529,7 +2060,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -1700,7 +2231,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -1715,7 +2246,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -1730,7 +2261,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -1835,7 +2366,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -1850,7 +2381,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -1865,7 +2396,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -1925,7 +2456,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -1940,7 +2471,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -1955,7 +2486,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -2000,7 +2531,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -2030,7 +2561,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -2045,7 +2576,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -2060,7 +2591,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -2231,7 +2762,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -2246,7 +2777,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -2261,7 +2792,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -2366,7 +2897,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -2381,7 +2912,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -2396,7 +2927,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $170 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $170 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -2456,7 +2987,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -2471,7 +3002,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -2486,7 +3017,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -2531,7 +3062,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -2561,7 +3092,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -2576,7 +3107,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -2591,7 +3122,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -2762,7 +3293,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -2777,7 +3308,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -2792,7 +3323,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -2897,7 +3428,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -2912,7 +3443,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -2927,7 +3458,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -2987,7 +3518,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -3002,7 +3533,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -3017,7 +3548,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -3062,7 +3593,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -3092,7 +3623,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -3107,7 +3638,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -3122,7 +3653,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -3293,7 +3824,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -3308,7 +3839,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -3323,7 +3854,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -3428,7 +3959,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -3443,7 +3974,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -3458,7 +3989,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -3518,7 +4049,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -3533,7 +4064,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -3548,7 +4079,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -3593,7 +4124,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -3623,7 +4154,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -3638,7 +4169,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -3653,7 +4184,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -3824,7 +4355,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -3839,7 +4370,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -3854,7 +4385,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -3959,7 +4490,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -3974,7 +4505,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -3989,7 +4520,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -4049,7 +4580,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -4064,7 +4595,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -4079,7 +4610,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -4124,7 +4655,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -4154,7 +4685,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -4169,7 +4700,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -4184,7 +4715,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -4355,7 +4886,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -4370,7 +4901,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -4385,7 +4916,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -4490,7 +5021,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -4505,7 +5036,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -4520,7 +5051,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -4580,7 +5111,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -4595,7 +5126,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -4610,7 +5141,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -4655,7 +5186,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -4685,7 +5216,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -4700,7 +5231,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -4715,7 +5246,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -4886,7 +5417,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -4901,7 +5432,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -4916,7 +5447,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -5021,7 +5552,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -5036,7 +5567,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -5051,7 +5582,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -5111,7 +5642,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -5126,7 +5657,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -5141,7 +5672,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -5186,7 +5717,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -5216,7 +5747,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -5231,7 +5762,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -5246,7 +5777,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -5417,7 +5948,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -5432,7 +5963,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -5447,7 +5978,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -5552,7 +6083,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -5567,7 +6098,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -5582,7 +6113,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -5642,7 +6173,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -5657,7 +6188,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -5672,7 +6203,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -5717,7 +6248,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -5747,7 +6278,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -5762,7 +6293,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -5777,7 +6308,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -5948,7 +6479,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -5963,7 +6494,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -5978,7 +6509,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -6083,7 +6614,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -6098,7 +6629,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -6113,7 +6644,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -6173,7 +6704,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -6188,7 +6719,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -6203,7 +6734,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -6248,7 +6779,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -6278,7 +6809,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -6293,7 +6824,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -6308,7 +6839,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -6479,7 +7010,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -6494,7 +7025,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -6509,7 +7040,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -6614,7 +7145,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -6629,7 +7160,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -6644,7 +7175,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -6704,7 +7235,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -6719,7 +7250,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -6734,7 +7265,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -6779,7 +7310,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -6809,7 +7340,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -6824,7 +7355,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -6839,7 +7370,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -7010,7 +7541,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -7025,7 +7556,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -7040,7 +7571,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -7145,7 +7676,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -7160,7 +7691,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -7175,7 +7706,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -7235,7 +7766,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -7250,7 +7781,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -7265,7 +7796,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -7310,7 +7841,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -7340,7 +7871,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -7355,7 +7886,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -7370,7 +7901,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -7541,7 +8072,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -7556,7 +8087,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -7571,7 +8102,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -7676,7 +8207,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -7691,7 +8222,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -7706,7 +8237,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -7766,7 +8297,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -7781,7 +8312,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -7796,7 +8327,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -7841,7 +8372,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -7871,7 +8402,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -7886,7 +8417,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -7901,7 +8432,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -8072,7 +8603,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -8087,7 +8618,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -8102,7 +8633,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -8207,7 +8738,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -8222,7 +8753,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -8237,7 +8768,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -8297,7 +8828,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -8312,7 +8843,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -8327,7 +8858,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -8372,7 +8903,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -8402,7 +8933,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -8417,7 +8948,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -8432,7 +8963,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -8603,7 +9134,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -8618,7 +9149,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -8633,7 +9164,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -8738,7 +9269,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -8753,7 +9284,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -8768,7 +9299,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -8828,7 +9359,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -8843,7 +9374,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -8858,7 +9389,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -8903,7 +9434,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -8933,7 +9464,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -8948,7 +9479,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -8963,7 +9494,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -9134,7 +9665,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -9149,7 +9680,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -9164,7 +9695,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -9269,7 +9800,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -9284,7 +9815,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -9299,7 +9830,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -9359,7 +9890,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -9374,7 +9905,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -9389,7 +9920,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -9434,7 +9965,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -9464,7 +9995,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -9479,7 +10010,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -9494,7 +10025,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -9665,7 +10196,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -9680,7 +10211,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -9695,7 +10226,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -9800,7 +10331,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -9815,7 +10346,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -9830,7 +10361,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -9890,7 +10421,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $120) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -9905,7 +10436,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $200 (or grocery e-voucher up to $200) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -9920,7 +10451,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -9965,7 +10496,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -9995,7 +10526,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -10010,7 +10541,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -10025,7 +10556,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -10196,7 +10727,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -10211,7 +10742,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -10226,7 +10757,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -10331,7 +10862,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -10346,7 +10877,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -10361,7 +10892,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -10421,7 +10952,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $140) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $140) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -10436,7 +10967,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $220 (or grocery e-voucher up to $220) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $220 (or grocery e-voucher up to $220) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -10451,7 +10982,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -10496,7 +11027,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -10526,7 +11057,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -10541,7 +11072,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -10556,7 +11087,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -10727,7 +11258,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -10742,7 +11273,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -10757,7 +11288,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -10862,7 +11393,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -10877,7 +11408,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -10892,7 +11423,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -10952,7 +11483,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $140) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $120 (or grocery e-voucher up to $140) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260003",
@@ -10967,7 +11498,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Bill rebate up to $220 (or grocery e-voucher up to $220) \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Bill rebate up to $220 (or grocery e-voucher up to $220) · free 12mo Singlife insurance"
         },
         {
           "planId": "tuasps260004",
@@ -10982,7 +11513,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -11027,7 +11558,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -11057,7 +11588,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -11072,7 +11603,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -11087,7 +11618,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -11258,7 +11789,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -11273,7 +11804,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -11288,7 +11819,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -11393,7 +11924,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -11408,7 +11939,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -11423,7 +11954,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -11513,7 +12044,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -11558,7 +12089,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -11588,7 +12119,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -11603,7 +12134,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -11618,7 +12149,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -11789,7 +12320,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -11804,7 +12335,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -11819,7 +12350,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -11924,7 +12455,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -11939,7 +12470,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -11954,7 +12485,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -12044,7 +12575,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -12089,7 +12620,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -12119,7 +12650,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -12134,7 +12665,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -12149,7 +12680,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -12320,7 +12851,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -12335,7 +12866,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -12350,7 +12881,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -12455,7 +12986,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -12470,7 +13001,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -12485,7 +13016,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -12575,7 +13106,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -12620,7 +13151,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -12650,7 +13181,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -12665,7 +13196,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -12680,7 +13211,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -12851,7 +13382,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -12866,7 +13397,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -12881,7 +13412,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -12986,7 +13517,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -13001,7 +13532,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -13016,7 +13547,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -13106,7 +13637,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -13151,7 +13682,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -13181,7 +13712,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -13196,7 +13727,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -13211,7 +13742,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -13382,7 +13913,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -13397,7 +13928,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -13412,7 +13943,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -13517,7 +14048,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -13532,7 +14063,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -13547,7 +14078,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -13637,7 +14168,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -13682,7 +14213,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -13712,7 +14243,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -13727,7 +14258,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -13742,7 +14273,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -13913,7 +14444,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -13928,7 +14459,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -13943,7 +14474,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -14048,7 +14579,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -14063,7 +14594,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -14078,7 +14609,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -14168,7 +14699,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -14213,7 +14744,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -14243,7 +14774,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -14258,7 +14789,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -14273,7 +14804,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -14444,7 +14975,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -14459,7 +14990,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -14474,7 +15005,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -14579,7 +15110,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -14594,7 +15125,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -14609,7 +15140,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -14699,7 +15230,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -14744,7 +15275,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -14774,7 +15305,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -14789,7 +15320,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -14804,7 +15335,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -14975,7 +15506,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $120"
+          "signupPromo": "Green plan · bill rebate up to $120"
         },
         {
           "planId": "kep260015",
@@ -14990,7 +15521,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "No contract \u00b7 exclusive for SP Group customers \u00b7 plan starts 1 Oct 2026 (24-month guaranteed discount)"
+          "signupPromo": "No contract · exclusive for SP Group customers · plan starts 1 Oct 2026 (24-month guaranteed discount)"
         },
         {
           "planId": "sernrg260001",
@@ -15005,7 +15536,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Promo code POWER15 \u00b7 $15 bill rebate"
+          "signupPromo": "Promo code POWER15 · $15 bill rebate"
         },
         {
           "planId": "sernrg200005",
@@ -15110,7 +15641,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Green plan · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260023",
@@ -15125,7 +15656,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $205 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $205 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260034",
@@ -15140,7 +15671,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Guaranteed discount off SP tariff \u00b7 up to $250 bill rebate with GIRO"
+          "signupPromo": "Guaranteed discount off SP tariff · up to $250 bill rebate with GIRO"
         },
         {
           "planId": "snknrg260035",
@@ -15230,7 +15761,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 bill rebate up to $100 \u00b7 free 12mo Singlife insurance"
+          "signupPromo": "Green plan · bill rebate up to $100 · free 12mo Singlife insurance"
         },
         {
           "planId": "plerg260002",
@@ -15275,7 +15806,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -15305,7 +15836,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260009",
@@ -15320,7 +15851,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 0.55,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260010",
@@ -15335,7 +15866,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": 1.01,
-          "signupPromo": "No contract \u00b7 no early termination charge"
+          "signupPromo": "No contract · no early termination charge"
         },
         {
           "planId": "plerg260011",
@@ -15635,7 +16166,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates"
+          "signupPromo": "Green plan · up to $228 in promo gifts & rebates"
         },
         {
           "planId": "snknrg260023",
@@ -15795,7 +16326,7 @@
           "usageTiers": null,
           "monthlyFee": 0,
           "dailyFee": null,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "plerg260007",
@@ -15969,7 +16500,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "sembp260007",
@@ -16035,7 +16566,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates"
+          "signupPromo": "Green plan · up to $228 in promo gifts & rebates"
         },
         {
           "planId": "snknrg260031",
@@ -16150,7 +16681,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "sembp260007",
@@ -16216,7 +16747,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates"
+          "signupPromo": "Green plan · up to $228 in promo gifts & rebates"
         },
         {
           "planId": "snknrg260031",
@@ -16331,7 +16862,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "sembp260007",
@@ -16408,7 +16939,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates"
+          "signupPromo": "Green plan · up to $228 in promo gifts & rebates"
         },
         {
           "planId": "snknrg260031",
@@ -16523,7 +17054,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan (RECs) \u00b7 up to $10 bill rebate"
+          "signupPromo": "Green plan (RECs) · up to $10 bill rebate"
         },
         {
           "planId": "sembp260007",
@@ -16600,7 +17131,7 @@
           "discountOffTariffPercent": null,
           "discountOffTariffCentsPerKWh": null,
           "monthlyFee": 0,
-          "signupPromo": "Green plan \u00b7 up to $228 in promo gifts & rebates"
+          "signupPromo": "Green plan · up to $228 in promo gifts & rebates"
         },
         {
           "planId": "snknrg260028",
